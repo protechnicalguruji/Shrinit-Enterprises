@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Shrinit Enterprises",
+  "description": "Premium electronics and home appliance business in Gwalior, offering quality products, trusted brands, and reliable customer service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
